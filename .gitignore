@@ -1,0 +1,6 @@
+# Exclude Compiled Binaries
+bin/
+
+# Exclude macOS attribute/meta-data files
+**/.DS_Store
+
